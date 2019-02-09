@@ -7,4 +7,6 @@ Basic CSS Started on 2/9/2019 Finished -->
 
  *Added First part of CSS --> Makes the Final Result part look nicer by adding style
  
- *Addded Second part of CSS --> Basic Padding & Margin Clockwise, Padding = Inner & Margin = Outside
+ *Added Second part of CSS --> Basic Padding & Margin Clockwise, Padding = Inner & Margin = Outside
+ 
+ *Added Third part of CSS --> Covered inheritance of CSS !important > inline > ID > class > body 
