@@ -10,3 +10,5 @@ Basic CSS Started on 2/9/2019 Finished -->
  *Added Second part of CSS --> Basic Padding & Margin Clockwise, Padding = Inner & Margin = Outside
  
  *Added Third part of CSS --> Covered inheritance of CSS !important > inline > ID > class > body 
+ 
+ *Added Fourth part of CSS --> Penguin created and using CSS variables to change multiple colors with one single change
