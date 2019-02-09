@@ -6,3 +6,5 @@ Basic HTML and HTML5 Lessons Started on 2/8/2019 Finished --> 2/8/2019
 Basic CSS Started on 2/9/2019 Finished -->
 
  *Added First part of CSS --> Makes the Final Result part look nicer by adding style
+ 
+ *Addded Second part of CSS --> Basic Padding & Margin Clockwise, Padding = Inner & Margin = Outside
