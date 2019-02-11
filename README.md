@@ -13,4 +13,14 @@ Basic CSS Started on 2/9/2019 Finished --> 2/9/2019
  
  *Added Fourth part of CSS --> Penguin created and using CSS variables to change multiple colors with one single change
  
- Basic Visual Design Started on 2/10/2019 -->
+ Basic Visual Design Started on 2/10/2019 --> Finished on 2/10/2019
+ 
+ *
+ 
+ *
+ 
+ *
+ 
+ 2/11/2019 --> Break 
+ 
+ Applied Accessibility Challenges Started on 2/12/2019 -->
