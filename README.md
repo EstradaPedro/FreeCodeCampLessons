@@ -15,7 +15,7 @@ Basic CSS Started on 2/9/2019 Finished --> 2/9/2019
  
  Basic Visual Design Started on 2/10/2019 --> Finished on 2/10/2019
  
- *
+ *Added First part of VD --> focuses on working with text from changing fonts to changing where the text is located
  
  *
  
