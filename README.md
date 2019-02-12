@@ -25,4 +25,6 @@ Basic CSS Started on 2/9/2019 Finished --> 2/9/2019
  
  2/11/2019 --> Break 
  
- Applied Accessibility Challenges Started on 2/12/2019 -->
+ 2/12/2019 --> Working on Website --> Basic
+ 
+ Applied Accessibility Challenges Started on 
