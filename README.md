@@ -22,9 +22,5 @@ Basic CSS Started on 2/9/2019 Finished --> 2/9/2019
  * Added Third part of VD --> Using different frame rates to show variance in the same animation
  
  * Added Fourth part of VD --> Using different timing functions to show different speeds that animations can have
- 
- 2/11/2019 --> Break 
- 
- 2/12/2019 --> Working on Website --> Basic
- 
+
  Applied Accessibility Challenges Started on 
