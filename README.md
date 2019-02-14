@@ -29,4 +29,6 @@ Basic CSS Started on 2/9/2019 Finished --> 2/9/2019
  
  * Check notes or freecodecamp if need a refresher
  
- Responsive Web Design Challenges Started on 2/14/2019 --> 
+ Responsive Web Design Challenges Started on 2/14/2019 --> Finished on 2/14/2019
+ 
+ * Focused on how to make web pages responsive using Media Queries, viewpoint width/height, and making an img responsive with css
