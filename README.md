@@ -28,3 +28,5 @@ Basic CSS Started on 2/9/2019 Finished --> 2/9/2019
  * Focused on how Screen Readers check the site based on tags and other information
  
  * Check notes or freecodecamp if need a refresher
+ 
+ Responsive Web Design Challenges Started on 2/14/2019 --> 
