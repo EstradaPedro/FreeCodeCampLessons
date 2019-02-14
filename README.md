@@ -23,4 +23,8 @@ Basic CSS Started on 2/9/2019 Finished --> 2/9/2019
  
  * Added Fourth part of VD --> Using different timing functions to show different speeds that animations can have
 
- Applied Accessibility Challenges Started on 
+ Applied Accessibility Challenges Started on 2/14/2019 --> Finished on 2/14/2019
+ 
+ * Focused on how Screen Readers check the site based on tags and other information
+ 
+ * Check notes or freecodecamp if need a refresher
