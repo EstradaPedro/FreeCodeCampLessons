@@ -34,3 +34,7 @@ Basic CSS Started on 2/9/2019 Finished --> 2/9/2019
  * Focused on how to make web pages responsive using Media Queries, viewpoint width/height, and making an img responsive with css
  
  * First Design with the intended target in mind (phones, computers, tablets, etc) and then make media queries to adjust for other audiences
+
+CSS Flexbox started on 2/15/2019 --> Finished on 2/15/2019
+
+* Focused on using dislpay: flex and properties to rezise containers and elements in a container
