@@ -37,4 +37,8 @@ Basic CSS Started on 2/9/2019 Finished --> 2/9/2019
 
 CSS Flexbox started on 2/15/2019 --> Finished on 2/15/2019
 
-* Focused on using dislpay: flex and properties to rezise containers and elements in a container
+* Focused on using display: flex and properties to rezise containers and elements in a container
+
+CSS Grid Started on 2/16/2019 --> Finished on 2/17/2019
+
+* Focused on using display: grid to show how to make a grid and how to use CSS with grid elements
