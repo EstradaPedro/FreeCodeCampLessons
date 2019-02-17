@@ -42,3 +42,5 @@ CSS Flexbox started on 2/15/2019 --> Finished on 2/15/2019
 CSS Grid Started on 2/16/2019 --> Finished on 2/17/2019
 
 * Focused on using display: grid to show how to make a grid and how to use CSS with grid elements
+
+Responsive Web Design Projects Started on 2/17/2019
