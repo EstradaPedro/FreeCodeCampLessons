@@ -43,4 +43,10 @@ CSS Grid Started on 2/16/2019 --> Finished on 2/17/2019
 
 * Focused on using display: grid to show how to make a grid and how to use CSS with grid elements
 
-Responsive Web Design Projects Started on 2/17/2019
+Responsive Web Design Projects Started on 2/17/2019 --> Finished on 2/20/2019
+
+* See other file on Github with the project code in it
+
+Basic Javascript Started on 2/21/2019 
+
+* Focuses on the basic syntax of JS 
