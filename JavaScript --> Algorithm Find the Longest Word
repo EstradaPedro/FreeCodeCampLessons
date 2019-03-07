@@ -1,0 +1,21 @@
+function findLongestWordLength(str) {
+  let longest = 0;
+  let count  = 0;
+  for(let i =0; i< str.length; i++){
+    
+    if(str[i] == " " || i == str.length-1){  
+      if(i == str.length-1)
+        count++;
+      if(count > longest){
+        longest = count;
+        console.log("Longest",longest);
+      }
+      count = 0;
+    }
+    else
+      count++; 
+  }
+  return longest;
+}
+
+findLongestWordLength("What if we try a super-long word such as otorhinolaryngology");
