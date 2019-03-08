@@ -1,0 +1,20 @@
+function frankenSplice(arr1, arr2, n) {
+
+  let newArr = arr2.slice(); // copies the whole array
+  console.log(newArr);
+  for(let i = 0; i < arr1.length; i++){
+    newArr.splice(n,0,arr1[i]); // copies arr1[index] in order like the problem wants
+    n++; // used to increment the position of the newArr alongside the index of arr1
+  }
+  return newArr;
+  
+  /*arr2.splice(n,0,arr1);
+  console.log(arr2);
+  let newArr = arr2.slice(0,arr2.length)
+  console.log(newArr);
+  arr2.splice(n,1);
+  console.log(arr2);
+  return newArr; works but messy*/
+}
+
+console.log(frankenSplice(["claw", "tentacle"], ["head", "shoulders", "knees", "toes"], 2));
