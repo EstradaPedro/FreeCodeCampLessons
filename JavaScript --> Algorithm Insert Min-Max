@@ -1,0 +1,50 @@
+Problem: Sort an array from min to max and then return the position of where the given element would be inserted in
+---------------------
+My Solution:
+---------------------
+function getIndexToIns(arr, num) {
+  let newArr = [];
+  for(let i = arr.length; i > 0; i--){ // runs until there is no more array
+  let min = arr[0]; // set min to the first value in the array to compare
+  let index = 0; // set the index to be used in the splice function
+  for(let i =0; i < arr.length; i++){
+    if(arr[i] < min)
+    {
+      min = arr[i];
+      index = i; 
+    }
+  }
+  newArr.push(min); // adds the min to the new array to be sorted from min-max
+  arr.splice(index,1); // removes the min from the array to look for a new min
+  }
+
+  for(let j =0; j < newArr.length; j++){ //used to see where the num would be inserted 
+    if(num <= newArr[j]){
+      return j;
+    }
+  }
+  return newArr.length;
+}
+
+getIndexToIns([5, 5, 20, 2], 5);
+
+Provided Solution:
+-----------------------
+function getIndexToIns(arr, num) {
+  arr.sort(function(a, b) {
+    return a - b;
+  });
+
+  for (var a = 0; a < arr.length; a++) {
+    if (arr[a] >= num)
+      return a;
+  }
+
+  return arr.length;
+}
+--------------------------
+function getIndexToIns(arr, num) {
+  arr.push(num);
+  arr.sort(function(a, b){return a-b});
+  return arr.indexOf(num);
+}
