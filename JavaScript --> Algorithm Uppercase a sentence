@@ -1,0 +1,14 @@
+Problem: Uppercase the first letter in every word
+Found Solution:
+
+function titleCase(str) {
+  var lower = String(str).toLowerCase(); // Converts the string to all lower case in case of text like wOrD 
+
+  return lower.replace(/(^| )(\w)/g, function(x) {
+    return x.toUpperCase(); //replace --> 1)finds the value and 2) replaces it and in this case it runs the function to make it uppercase
+  });
+}
+
+
+
+titleCase("I'm a little tea pot");
