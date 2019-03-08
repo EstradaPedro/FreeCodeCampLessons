@@ -50,3 +50,5 @@ Responsive Web Design Projects Started on 2/17/2019 --> Finished on 2/20/2019
 Basic Javascript Started on 2/21/2019 
 
 * Focuses on the basic syntax of JS 
+
+* Added multiple  JavaScript files --> Contain code to solve the problems given --> 3/7/2019 --> 3/?/2019
