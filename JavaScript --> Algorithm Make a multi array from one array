@@ -1,0 +1,14 @@
+    function chunkArrayInGroups(arr, size) {
+      let arr2 = []; // Create a new array to hold the arrays made
+      for (var i = 0; i < arr.length; i+=size) { // run as many times needed
+    	arr2.push(arr.slice(i , i+size)); // Example Below 
+      }
+      return arr2;
+    }
+/**
+ * First Run
+ * i = 0 --> arr.slice(0,2) --> [a,b] Pushed to arr2
+ * i = 2 --> arr.slice(2,4) --> [c,d] pushed to arr2
+ * i = 4 program ends
+ */
+chunkArrayInGroups(["a", "b", "c", "d"], 2);
