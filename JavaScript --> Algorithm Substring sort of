@@ -1,0 +1,13 @@
+Problem: Check if string1 contains all the words found in string2
+
+function mutation(arr) {
+  let str2 = arr[1].toLowerCase(); // makes HEy to hey to compare them
+  let str1 = arr[0].toLowerCase();
+  for (var i=0;i<str2.length;i++) {
+    if (str1.indexOf(str2[i]) < 0) // EX. str2[0] = 'h' --> searches for h if not found = -1 meaning it will return false
+      return false;
+  }
+  return true; // if nothing returns false it returns true
+}
+
+mutation(["hello", "HEy"]);
