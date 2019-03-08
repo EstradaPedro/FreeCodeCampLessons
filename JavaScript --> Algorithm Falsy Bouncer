@@ -1,0 +1,11 @@
+function bouncer(arr) {
+  console.log(arr.filter(Boolean));
+  return arr.filter(Boolean); // the filter function creates a new array with the values that pass the condition
+}
+/**
+ Booelan(7); //returns true
+Boolean("ate"); //returns true
+Boolean(""); //returns false
+ */
+
+bouncer([7, "ate", "", false, 9]);
